@@ -1,4 +1,4 @@
-# Atelier sur la Découverte de scikit-learn 😊
+# Atelier sur la Découverte de scikit-learn avec IRIS 😊
 
 Bienvenue au Workshop EPITECH scikit-learn proposé par:
 
@@ -11,7 +11,6 @@ Benjamin Koksas
 
 Cet atelier vous guidera à travers les bases de scikit-learn, une bibliothèque Python puissante pour l'apprentissage automatique.
 
-Spoiler: "USEFULL POUR LE PROJET D'IA TEK3"
 
 ## Table des Matières
 
